@@ -19,8 +19,7 @@ def page3(request):
     <html>
         <head><title>Página 3</title></head>
         <body>
-            <h1>Python no Heroku - SOCPS</h1>
-            <!-- se quiser troca esse cara-->
+            <h1>Django Heroku Deploy</h1>
             <h2>Página 3</h2>
             <a href="../">index</a><br>
             <a href="../page4">pagina4</a>
@@ -44,8 +43,6 @@ def page5(request):
             <h2>Página 5</h2>
             <a href="../page2">page2</a><br>
             <a href="../page4">page4</a><br>
-            <img src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-21.gif" alt="pérrot">
-            <!-- editar somente o gif-->
         </body>
     </html>
     '''
