@@ -38,8 +38,8 @@ def page5(request):
     <html>
         <head><title>Página 5</title></head>
         <body>
-            <h1>Python no Heroku - SOCPS</h1>
-            <h1> Data atual: {data_atual} </h1>
+            <h1>Django Heroku Deploy</h1>
+            <h1> Data: {data_atual} </h1>
             <h2>Página 5</h2>
             <a href="../page2">page2</a><br>
             <a href="../page4">page4</a><br>
