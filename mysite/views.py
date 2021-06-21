@@ -7,7 +7,7 @@ def index(request):
 
     #data_atual = date.today()
     #return HttpResponse(data_atual)
-    return render(request, "index.html")
+    return render(request, "index.php")
 
 def page2(request):
 
